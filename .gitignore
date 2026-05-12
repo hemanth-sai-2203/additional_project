@@ -1,0 +1,11 @@
+*.mp4
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+carla_env37/
+venv/
+*.log
+.vscode/
+.idea/
